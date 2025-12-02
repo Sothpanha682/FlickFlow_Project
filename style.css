@@ -34,6 +34,11 @@ body {
     text-align: center;
 }
 
+html.dark .login-container {
+    background-color: #1a222e; /* Darker background for the login container */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4); /* Darker, more pronounced shadow for dark mode */
+}
+
 .login-container h2 {
     margin-bottom: 1.5rem;
     color: var(--gray-900);
