@@ -1,0 +1,28 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/dashboard",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/login",
+      "destination": "/login.html"
+    },
+    {
+      "source": "/components/:path*",
+      "destination": "/components/:path*"
+    },
+    {
+      "source": "/static/:path*",
+      "destination": "/static/:path*"
+    },
+    {
+      "source": "/:path((?!.*\\.html$)(?!.*\\.json$)(?!.*\\.css$)(?!.*\\.js$)(?!.*\\.png$)(?!.*\\.jpg$)(?!.*\\.jpeg$)(?!.*\\.gif$)(?!.*\\.svg$)(?!.*\\.woff$)(?!.*\\.woff2$)(?!.*\\.ttf$)(?!.*\\.eot$)(?!.*\\.ico$)(?!.*\\.txt$)(?!.*\\.xml$)(?!.*\\.webmanifest$)(?!.*\\.map$)(?!.*\\.DS_Store$)(?!.*\\.git$)(?!.*\\.gitignore$)(?!.*\\.vscode$)(?!.*\\.editorconfig$)(?!.*\\.eslintrc$)(?!.*\\.prettierrc$)(?!.*\\.env$)(?!.*\\.example$)(?!.*\\.md$)(?!.*\\.yml$)(?!.*\\.toml$)(?!.*\\.lock$)(?!.*\\.log$)(?!.*\\.npmignore$)(?!.*\\.swp$)(?!.*\\.swo$)(?!.*\\.bak$)(?!.*\\.tmp$)(?!.*\\.zip$)(?!.*\\.rar$)(?!.*\\.7z$)(?!.*\\.tar$)(?!.*\\.gz$)(?!.*\\.br$)(?!.*\\.mp4$)(?!.*\\.mov$)(?!.*\\.avi$)(?!.*\\.webm$)(?!.*\\.mp3$)(?!.*\\.wav$)(?!.*\\.ogg$)(?!.*\\.flac$)(?!.*\\.aac$)(?!.*\\.m4a$)(?!.*\\.jsonld$)(?!.*\\.geojson$)(?!.*\\.csv$)(?!.*\\.tsv$)(?!.*\\.pdf$)(?!.*\\.docx$)(?!.*\\.pptx$)(?!.*\\.xlsx$)(?!.*\\.odt$)(?!.*\\.ods$)(?!.*\\.odp$)(?!.*\\.rtf$)(?!.*\\.jsonp$)(?!.*\\.xml$)(?!.*\\.rss$)(?!.*\\.atom$)(?!.*\\.kml$)(?!.*\\.gpx$)(?!.*\\.geojson$)(?!.*\\.csv$)(?!.*\\.tsv$)(?!.*\\.txt$)(?!.*\\.md$)(?!.*\\.markdown$)(?!.*\\.asciidoc$)(?!.*\\.rst$)(?!.*\\.org$)(?!.*\\.wiki$)(?!.*\\.textile$)(?!.*\\.rdoc$)(?!.*\\.adoc$)(?!.*\\.conf$)(?!.*\\.config$)(?!.*\\.ini$)(?!.*\\.cfg$)(?!.*\\.properties$)(?!.*\\.envrc$)(?!.*\\.zshrc$)(?!.*\\.bashrc$)(?!.*\\.profile$)(?!.*\\.vimrc$)(?!.*\\.gitconfig$)(?!.*\\.npmrc$)(?!.*\\.yarnrc$)(?!.*\\.bowerrc$)(?!.*\\.jshintrc$)(?!.*\\.csslintrc$)(?!.*\\.stylintrc$)(?!.*\\.htmlhintrc$)(?!.*\\.markdownlintrc$)(?!.*\\.textlintrc$)(?!.*\\.editorconfig$)(?!.*\\.prettierrc$)(?!.*\\.stylelintrc$)(?!.*\\.babelrc$)(?!.*\\.tsconfig$)(?!.*\\.webpackrc$)(?!.*\\.browserslistrc$)(?!.*\\.flowconfig$)(?!.*\\.lintstagedrc$)(?!.*\\.huskyrc$)(?!.*\\.npm-debug.log$)(?!.*\\.yarn-debug.log$)(?!.*\\.pnpm-debug.log$)(?!.*\\.DS_Store$)(?!.*\\.git$)(?!.*\\.gitignore$)(?!.*\\.vscode$)(?!.*\\.editorconfig$)(?!.*\\.eslintrc$)(?!.*\\.prettierrc$)(?!.*\\.env$)(?!.*\\.example$)(?!.*\\.md$)(?!.*\\.yml$)(?!.*\\.toml$)(?!.*\\.lock$)(?!.*\\.log$)(?!.*\\.npmignore$)(?!.*\\.swp$)(?!.*\\.swo$)(?!.*\\.bak$)(?!.*\\.tmp$)(?!.*\\.zip$)(?!.*\\.rar$)(?!.*\\.7z$)(?!.*\\.tar$)(?!.*\\.gz$)(?!.*\\.br$)(?!.*\\.mp4$)(?!.*\\.mov$)(?!.*\\.avi$)(?!.*\\.webm$)(?!.*\\.mp3$)(?!.*\\.wav$)(?!.*\\.ogg$)(?!.*\\.flac$)(?!.*\\.aac$)(?!.*\\.m4a$)(?!.*\\.jsonld$)(?!.*\\.geojson$)(?!.*\\.csv$)(?!.*\\.tsv$)(?!.*\\.pdf$)(?!.*\\.docx$)(?!.*\\.pptx$)(?!.*\\.xlsx$)(?!.*\\.odt$)(?!.*\\.ods$)(?!.*\\.odp$)(?!.*\\.rtf$)(?!.*\\.jsonp$)(?!.*\\.xml$)(?!.*\\.rss$)(?!.*\\.atom$)(?!.*\\.kml$)(?!.*\\.gpx$)(?!.*\\.geojson$)(?!.*\\.csv$)(?!.*\\.tsv$)(?!.*\\.txt$)(?!.*\\.md$)(?!.*\\.markdown$)(?!.*\\.asciidoc$)(?!.*\\.rst$)(?!.*\\.org$)(?!.*\\.wiki$)(?!.*\\.textile$)(?!.*\\.rdoc$)(?!.*\\.adoc$)(?!.*\\.conf$)(?!.*\\.config$)(?!.*\\.ini$)(?!.*\\.cfg$)(?!.*\\.properties$)(?!.*\\.envrc$)(?!.*\\.zshrc$)(?!.*\\.bashrc$)(?!.*\\.profile$)(?!.*\\.vimrc$)(?!.*\\.gitconfig$)(?!.*\\.npmrc$)(?!.*\\.yarnrc$)(?!.*\\.bowerrc$)(?!.*\\.jshintrc$)(?!.*\\.csslintrc$)(?!.*\\.stylintrc$)(?!.*\\.htmlhintrc$)(?!.*\\.markdownlintrc$)(?!.*\\.textlintrc$)(?!.*\\.editorconfig$)(?!.*\\.prettierrc$)(?!.*\\.stylelintrc$)(?!.*\\.babelrc$)(?!.*\\.tsconfig$)(?!.*\\.webpackrc$)(?!.*\\.browserslistrc$)(?!.*\\.flowconfig$)(?!.*\\.lintstagedrc$)(?!.*\\.huskyrc$)(?!.*\\.npm-debug.log$)(?!.*\\.yarn-debug.log$)(?!.*\\.pnpm-debug.log$)).*)/",
+      "destination": "/index.html"
+    }
+  ]
+}
