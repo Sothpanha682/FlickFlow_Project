@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Bureau 749",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/flykCMw22y6yv8vKnBjmsW3pneo.jpg",
+        "description": "A traumatized young man with physical abnormalities is forced to join a mysterious bureau to confront a disaster spreading across the earth caused by an unknown creature. He embarks on an adventure uncovering mysteries about his life.",
+        "rating": 4.5,
+        "category": "Sci-Fi"
+    },
+    {
+        "id": 2,
+        "title": "Zootopia 2",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De’Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+        "rating": 5,
+        "category": "Drama"
+    },
+    {
+        "id": 3,
+        "title": "Predator: Badlands",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 4,
+        "title": "Playdate",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
+        "description": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 5,
+        "title": "Demon Slayer",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 6,
+        "title": "Black Phone 2",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
+        "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 7,
+        "title": "KPop Demon Hunters",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+        "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 8,
+        "title": "The Fantastic 4: First Steps",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/pZPJsaFKWheTOerVhLnpP8TPp4B.jpg",
+        "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 9,
+        "title": "Art of Eight Limbs",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/tZRypLd2SU3Eeqg5tD5cwkk5CdL.jpg",
+        "description": "Four canisters of deadly VX nerve gas have fallen into the hands of an international arms dealer in Myanmar. A CIA recruit delivers a high-tech detection device to an agent already on the ground.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 10,
+        "title": "The Gentleman",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/iIIZ3qIh7A3B8Y1VVo5laFyusVV.jpg",
+        "description": "Aging ex-soldier Theo meets weekly with prostitute Olga to reminisce. After Olga's murder, Theo seeks bloody revenge, attracting attention of alcoholic cop Iborra and hitman Herodes.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 11,
+        "title": "The Prosecutor",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/n3ZnFqp988MWfIkT8OHofEJfjlt.jpg",
+        "description": "A poor young man is wrongly charged with drug trafficking after being deceived. An ex-prosecutor investigates the case, uncovers a corrupt lawyer team's scheme, and restores justice despite obstruction from evil forces.",
+        "rating": 5,
+        "category": "Action"
+    },
+    {
+        "id": 12,
+        "title": "Interstellar",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "rating": 5,
+        "category": "Action"
+    }
+]

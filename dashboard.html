@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlickFlow - Movie Universe Manager</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="components/navbar.js" type="module"></script>
+    <script src="components/movie-card.js" type="module"></script>
+    <script src="components/movie-modal.js" type="module"></script>
+</head>
+<body>
+    <script>
+        // Check if the user is logged in
+        if (localStorage.getItem('isLoggedIn') !== 'true') {
+            window.location.href = 'login.html';
+        }
+    </script>
+    <custom-navbar></custom-navbar>
+    
+    <main>
+        <div>
+            <h1>Movie Collection</h1>
+            <button id="addMovieBtn">Add Movie</button>
+        </div>
+
+        <div id="moviesGrid">
+            <!-- Movie cards will be inserted here -->
+        </div>
+    </main>
+
+    <custom-movie-modal></custom-movie-modal>
+
+    <script src="script.js" type="module"></script>
+</body>
+</html>
